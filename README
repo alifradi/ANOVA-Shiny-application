@@ -1,0 +1,13 @@
+The application is designed to meet the user’s expectations as it allows him to choose
+between the two alternatives of ANOVA. It welcomes the user with a sidebar that offers
+the possibility to upload the CSV file and then give him the possibility to choose one
+continuous variable Y and one or two factors X (respectively X1 and X2). It also gives
+the possibility to add a categorical column as a blocking variable to prepare for ANOVA
+analysis when analyzing Y considering the replications. The application gives the user
+the ability to add numeric factors and put fix the criteria to judge a numerical column as
+a factor. Furthermore, a significance level is can be fixed to judge the significance of all
+tests performed along the analysis.
+The application highlights all hypotheses that have to be verified in order to perform
+a robust ANOVA analysis : The application output is subdivided into 5 horizontal tab
+panels for the two alternatives of ANOVA in a way that respond to ”What is in my
+data ?” in a progressive direction until all tasks are fulfilled.
